@@ -133,8 +133,7 @@
 面试题67: 把字符串转换成整数 -> LeetCode 8.String to Integer (atoi)
 
 面试题68: 树中两个结点的最低公共祖先
-
-(一) 二叉查找树中两个结点的最低公共祖先 -> LeetCode 235.Lowest Common Ancestor of a Binary Search Tree
-(二) 二叉树中两个结点的最低公共祖先 -> LeetCode 236.Lowest Common Ancestor of a Binary Tree
-(三) 普通树中两个结点的最低公共祖先(有指向父结点的指针) -> tree.LowestCommonAncestorOfTreeWithParentPointer
-(四) 普通树中两个结点的最低公共祖先(无指向父结点的指针) -> tree.LowestCommonAncestorOfTree
+1. 二叉查找树中两个结点的最低公共祖先 -> LeetCode 235.Lowest Common Ancestor of a Binary Search Tree
+2. 二叉树中两个结点的最低公共祖先 -> LeetCode 236.Lowest Common Ancestor of a Binary Tree
+3. 普通树中两个结点的最低公共祖先(有指向父结点的指针) -> tree.LowestCommonAncestorOfTreeWithParentPointer
+4. 普通树中两个结点的最低公共祖先(无指向父结点的指针) -> tree.LowestCommonAncestorOfTree
