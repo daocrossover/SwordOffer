@@ -1,6 +1,6 @@
 面试题2: 实现Singleton模式 -> design.Singleton
 
-面试题3(二): 不修改数组找出重复的数字 -> LeetCode 287.Find the Duplicate Number
+面试题3(二): 不修改数组找出重复的数字 -> [LeetCode 287.Find the Duplicate Number] (https://github.com/daocrossover/Leetcode-Java/blob/master/src/two_pointers/FindTheDuplicateNumber.java)
 
 面试题4: 二维数组中的查找 -> LeetCode 240.Search a 2D Matrix II
 
