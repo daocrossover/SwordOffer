@@ -1,28 +1,28 @@
 面试题2: 实现Singleton模式 -> design.Singleton
 
-面试题3(二): 不修改数组找出重复的数字 -> [LeetCode 287.Find the Duplicate Number] (https://github.com/daocrossover/Leetcode-Java/blob/master/src/two_pointers/FindTheDuplicateNumber.java)
+面试题3(二): 不修改数组找出重复的数字 -> [LeetCode 287.Find the Duplicate Number](https://github.com/daocrossover/Leetcode-Java/blob/master/src/two_pointers/FindTheDuplicateNumber.java)
 
-面试题4: 二维数组中的查找 -> LeetCode 240.Search a 2D Matrix II
+面试题4: 二维数组中的查找 -> [LeetCode 240.Search a 2D Matrix II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/binary_search/SearchA2DMatrixII.java)
 
-面试题7: 重建二叉树 -> LeetCode 105.Construct Binary Tree from Preorder and Inorder Traversal
+面试题7: 重建二叉树 -> [LeetCode 105.Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 
 面试题8: 二叉树的下一个结点 -> tree.NextNodeInBinaryTree
 
-面试题11: 旋转数组中的最小数字 -> LeetCode 154.Find Minimum in Rotated Sorted Array II
+面试题11: 旋转数组中的最小数字 -> [LeetCode 154.Find Minimum in Rotated Sorted Array II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/binary_search/FindMinimuminRotatedSortedArrayII.java)
 
-面试题12: 矩阵中的路径 -> LeetCode 79.Word Search
+面试题12: 矩阵中的路径 -> [LeetCode 79.Word Search](https://github.com/daocrossover/Leetcode-Java/blob/master/src/backtracking/WordSearch.java)
 
 面试题13: 机器人的运动范围 -> backtracking.MovingCount
 
 面试题14: 剪绳子 -> dynamic_programming.CuttingRope
 
-面试题15: 二进制中1的个数 -> LeetCode 191.Number of 1 Bits
+面试题15: 二进制中1的个数 -> [LeetCode 191.Number of 1 Bits](https://github.com/daocrossover/Leetcode-Java/blob/master/src/bit_manipulation/NumberOf1Bits.java)
 
-面试题16: 数值的整数次方 -> LeetCode 50.Pow(x, n)
+面试题16: 数值的整数次方 -> [LeetCode 50.Pow(x, n)](https://github.com/daocrossover/Leetcode-Java/blob/master/src/math/Pow.java)
 
 面试题18(一): 在O(1)时间删除链表结点 -> linked_list.DeleteNodeInALinkedList
 
-面试题18(二): 删除链表中重复的结点 -> LeetCode 82.Remove Duplicates from Sorted List II
+面试题18(二): 删除链表中重复的结点 -> [LeetCode 82.Remove Duplicates from Sorted List II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/linked_list/RemoveDuplicatesFromSortedListII.java)
 
 面试题21: 调整数组顺序使奇数位于偶数前面 -> LeetCode 905.Sort Array By Parity
 
