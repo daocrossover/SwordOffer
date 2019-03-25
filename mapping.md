@@ -8,6 +8,10 @@
 
 面试题8: 二叉树的下一个结点 -> tree.NextNodeInBinaryTree
 
+面试题9: 用两个栈实现队列 -> [LeetCode 232.Implement Queue using Stacks](https://github.com/daocrossover/Leetcode-Java/blob/master/src/stack/ImplementQueueUsingStacks.java)
+
+面试题10: 斐波那契数列 -> [LeetCode 509.Fibonacci Number](https://github.com/daocrossover/Leetcode-Java/blob/master/src/dynamic_programming/FibonacciNumber.java)
+
 面试题11: 旋转数组中的最小数字 -> [LeetCode 154.Find Minimum in Rotated Sorted Array II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/binary_search/FindMinimuminRotatedSortedArrayII.java)
 
 面试题12: 矩阵中的路径 -> [LeetCode 79.Word Search](https://github.com/daocrossover/Leetcode-Java/blob/master/src/backtracking/WordSearch.java)
