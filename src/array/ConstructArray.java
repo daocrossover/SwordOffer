@@ -5,7 +5,7 @@ package array;
 中B中的元素B[i] = A[0]×A[1]×… ×A[i-1]×A[i+1]×…×A[n-1]。不能使用除法。
  */
 
-public class ConstuctArray {
+public class ConstructArray {
     public int[] multiply(int[] A) {
         int n = A.length;
         int[] B = new int[n];
