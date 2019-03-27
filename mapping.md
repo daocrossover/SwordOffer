@@ -60,9 +60,9 @@
 
 面试题33(二): 二叉搜索树的前序遍历序列 -> [LeetCode 255.Verify Preorder Sequence in Binary Search Tree](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/VerifyPreorderSequenceInBinarySearchTree.java)
 
-面试题34: 二叉树中和为某一值的路径 -> LeetCode 113.Path Sum II
+面试题34: 二叉树中和为某一值的路径 -> [LeetCode 113.Path Sum II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/PathSumII.java)
 
-面试题36: 二叉搜索树与双向链表 -> LeetCode 426.Convert Binary Search Tree to Sorted Doubly Linked List
+面试题36: 二叉搜索树与双向链表 -> [LeetCode 426.Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/ConvertBinarySearchTreeToSortedDoublyLinkedList.java)
 
 面试题38: 字符串的排列 -> backtracking.StringPermutation
 
@@ -70,21 +70,23 @@
 
 面试题40: 最小的k个数 -> heap.KLeastNumbers
 
-面试题41: 数据流中的中位数 -> LeetCode 295.Find Median from Data Stream
+面试题41: 数据流中的中位数 -> [LeetCode 295.Find Median from Data Stream](https://github.com/daocrossover/Leetcode-Java/blob/master/src/heap/FindMedianFromDataStream.java)
 
 面试题42: 连续子数组的最大和 -> array.GreatestSumOfSubarrays
 
-面试题43: 从1到n整数中1出现的次数 -> LeetCode 233.Number of Digit One
+面试题43(一): 从1到n整数中1出现的次数 -> [LeetCode 233.Number of Digit One](https://github.com/daocrossover/Leetcode-Java/blob/master/src/math/NumberOfDigitOne.java)
+
+面试题43(二): 从1到n整数中0-9出现的次数 -> math.NumberOfAllDigits
 
 面试题44: 数字序列中某一位的数字 -> math.DigitsInSequence
 
-面试题45: 把数组排成最小的数 -> LeetCode 179.Largest Number
+面试题45: 把数组排成最小的数 -> [LeetCode 179.Largest Number](https://github.com/daocrossover/Leetcode-Java/blob/master/src/sorting/LargestNumber.java)
 
 面试题46: 把数字翻译成字符串 -> dynamic_programming.TranslateNumbersToStrings
 
-面试题47: 礼物的最大价值 -> LeetCode 64.Minimum Path Sum
+面试题47: 礼物的最大价值 -> [LeetCode 64.Minimum Path Sum](https://github.com/daocrossover/Leetcode-Java/blob/master/src/dynamic_programming/MinimumPathSum.java)
 
-面试题48: 最长不含重复字符的子字符串 -> LeetCode 3.Longest Substring Without Repeating Characters
+面试题48: 最长不含重复字符的子字符串 -> [LeetCode 3.Longest Substring Without Repeating Characters](https://github.com/daocrossover/Leetcode-Java/blob/master/src/slide_window/LongestSubstringWithoutRepeatingCharacters.java)
 
 面试题49: 丑数 -> [LeetCode 264.Ugly Number II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/dynamic_programming/UglyNumberII.java)
 
