@@ -62,7 +62,11 @@
 
 面试题34: 二叉树中和为某一值的路径 -> [LeetCode 113.Path Sum II](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/PathSumII.java)
 
+面试题35: 复杂链表的复制 -> [LeetCode 138.Copy List with Random Pointer](https://github.com/daocrossover/Leetcode-Java/blob/master/src/linked_list/CopyListWithRandomPointer.java)
+
 面试题36: 二叉搜索树与双向链表 -> [LeetCode 426.Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/ConvertBinarySearchTreeToSortedDoublyLinkedList.java)
+
+面试题37: 序列化二叉树 -> [LeetCode 297.Serialize and Deserialize Binary Tree](https://github.com/daocrossover/Leetcode-Java/blob/master/src/tree/SerializeAndDeserializeBinaryTree.java)
 
 面试题38: 字符串的排列 -> backtracking.StringPermutation
 
